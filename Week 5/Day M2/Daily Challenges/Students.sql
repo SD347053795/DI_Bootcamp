@@ -3,7 +3,7 @@ CREATE TABLE students (
     last_name VARCHAR(50),
     first_name VARCHAR(50),
     birth_date DATE
-);
+); 
 
 INSERT INTO students (last_name, first_name, birth_date)
 VALUES
