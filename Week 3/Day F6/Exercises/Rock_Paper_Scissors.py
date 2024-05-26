@@ -1,4 +1,4 @@
-from game import Game
+1from game import Game
 def get_user_menu_choice():
     print("Menu:")
     print("1. Play a new game")
